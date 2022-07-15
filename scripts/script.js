@@ -54,3 +54,6 @@ function cek(){
 
 	}
 	,213)
+//gabungin dengan h1.js
+//validasi max length
+//validasi angka input
